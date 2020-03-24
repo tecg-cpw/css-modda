@@ -31,6 +31,7 @@ Le rendu final désiré est le suivant : ![rendu final](./rendus/modda.jpg)
 - [Comment masquer un élément visuellement ?](https://css-tricks.com/places-its-tempting-to-use-display-none-but-dont/)
 - [Comment importer une typo avec @font-face ?](https://developer.mozilla.org/fr/docs/Web/CSS/@font-face)
 - Comment utiliser adobe XD ? (vidéo à venir) 
+- En attendant, si vous avez besoin d'aide pour utiliser Adobe XD, vous pouvez chercher des solutions dans la [documentation officielle](https://helpx.adobe.com/be_fr/xd/tutorials.html) ou me poser des questions sur Slack.
 
 
 Adaptation et intégration par & [François Parmentier](https://github.com/fprms).
