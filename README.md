@@ -25,7 +25,7 @@ Le rendu final désiré est le suivant : ![rendu final](./rendus/modda.jpg)
 * Bon travail et bon amusement&nbsp;!
 
 
-## Récuperer le reset et les polices : `reset.css`
+## Récuperer les polices : `reset.css`
 
 Dans un dossier `css`, créez le fichier `reset.css`
 
