@@ -1,0 +1,36 @@
+body {
+  color: white;
+}
+h1 {
+  font-size: 1.875em; /*30/16*/
+  font-weight: 300;
+  margin-bottom: 0.5em; /* 15/30*/
+}
+.login-header div {
+  background-color: black;
+  padding: 4em 60px 3.625em; /* 64/16 58/16 */
+}
+.login-header p {
+  font-size: 0.9375em; /*15/16*/
+  line-height: 1.46666667em; /*22/15*/
+}
+.login-header img {
+  display: block;
+}
+footer {
+  background-color: #ffd4a2;
+  padding: 1.4375em 0; /*23/16*/
+}
+footer a {
+  font-size: 0.75em; /*12/16*/
+  display: inline-block;
+  width: 49.5%;
+  text-decoration: none;
+  color: #363636;
+  text-transform: uppercase;
+  line-height: 1.333333333;
+  letter-spacing: 0.16em;
+}
+footer a + a {
+  border-left: 1px solid #e4b783;
+}
