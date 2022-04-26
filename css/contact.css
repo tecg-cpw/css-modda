@@ -1,0 +1,80 @@
+body {
+  padding-top: 2em;
+}
+h1 {
+  font-size: 0.75em; /*12/16*/
+  letter-spacing: 0.1667em; /*166.7/1000*/
+  text-transform: uppercase;
+  font-weight: 700;
+  margin-bottom: 1.83333333em; /*22/12*/
+}
+/* --------------- */
+/* --- Adresse --- */
+/* --------------- */
+.contact-info {
+  text-align: left;
+  padding: 0 20px;
+  margin-top: -3.75em; /*60/16*/
+  margin-bottom: 3em; /*48/16*/
+}
+.adresse {
+  display: inline-block;
+}
+.logo {
+  display: inline-block;
+  background-color: white;
+  width: 120px;
+  padding: 2.0625em 0; /*33/16*/
+  margin-right: 20px;
+  box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.2);
+  -webkit-box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.2);
+  -moz-box-shadow: 0px 20px 30px 0px rgba(0, 0, 0, 0.2);
+}
+.logo img {
+  display: block;
+  margin: auto;
+}
+h2 {
+  font-weight: 300;
+  font-size: 1.5em; /*24/16*/
+  margin-bottom: 0.20833333em; /*5/24*/
+}
+/* ------------------ */
+/* --- Formulaire --- */
+/* ------------------ */
+input,
+textarea {
+  font: inherit;
+  font-family: Raleway, Helvetica, Arial, sans-serif;
+  box-sizing: border-box;
+  font-size: 0.875em; /*14/16*/
+  font-weight: 300;
+  width: 100%;
+  border: none;
+  border-top: 1px solid #e2e2e2;
+  padding: 1.42857143em 80px 1.42857143em 40px; /*20/14*/
+}
+::placeholder {
+  color: #919191;
+}
+
+/* -------------- */
+/* --- Footer --- */
+/* -------------- */
+footer {
+  background-color: #ffd4a2;
+  padding: 1.4375em 0; /*23/16*/
+}
+footer a {
+  font-size: 0.75em; /*12/16*/
+  display: inline-block;
+  width: 49.5%;
+  text-decoration: none;
+  color: #fff;
+  text-transform: uppercase;
+  line-height: 1.333333333;
+  letter-spacing: 0.16em;
+}
+footer a + a {
+  border-left: 1px solid #e4b783;
+}
